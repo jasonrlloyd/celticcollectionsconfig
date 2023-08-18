@@ -8,7 +8,7 @@
     },
     {
       "layout": "announceBar",
-      "title": "GET 10% OFF WITH CODE APP10",
+      "title": "GET 10% OFF WITH CODE GITHUB",
       "backgroundColor": "8CC54B",
       "textColor": "ffffff",
       "animate": true
