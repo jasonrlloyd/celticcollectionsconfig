@@ -1,0 +1,506 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": true,
+      "showLogo": true
+    },
+    {
+      "layout": "announceBar",
+      "title": "GET 10% OFF WITH CODE APP10",
+      "backgroundColor": "8CC54B",
+      "textColor": "ffffff",
+      "animate": true
+    },
+    {
+      "layout": "categorySlider",
+      "backgroundColor": "217048"
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "autoPlay": true,
+      "showNumber": false,
+      "design": "default",
+      "showBackGround": true,
+      "height": 0.4,
+      "radius": 0.0,
+      "items": [
+        {
+          "category": "gid://shopify/Collection/153066405959",
+          "cateName": "Aran Woollen Mills",
+          "image": "https://blogger.googleusercontent.com/img/a/AVvXsEhOi4zty_F3GhuTWUKg5VWyPGEkoXmnVkXYlBGykVyMshe83wHfvBIzDD6eesTAJsSZUv5F8eev9dJY55hs2C2VO2baTZYua2CRqKn7ut7OlF63IhW-HhWpvb6NcxnKnU3oXrFym0iZ6nR0-3Ww7n-rBU-5-7VTWs0r-TlZ9d3PSq4HzQ0FYXrceklh0ZI"
+        },
+        {
+          "category": "gid://shopify/Collection/92930801735",
+          "cateName": "Celtic Woman",
+          "image": "https://blogger.googleusercontent.com/img/a/AVvXsEjDYcBtb0WwWT--Iyx0np2cNxJ9ZoxNsYU_eknoSV-Hq0-KR2rKR-URCTVuicJccIEp7ENXHZp9mGKsTp91Ke-dCYFfnyDD_0eYulKdpqp4jRVjgPKo4_BgteZaSqYNEprb1JQZ8Z-NuWpdlKkgudQICLdqZVRy21u3W_uxBtZ2djxxxIdbMocmJS0D4uU"
+        },
+        {
+          "category": "gid://shopify/Collection/64238780536",
+          "cateName": "The High Kings CDs",
+          "image": "https://blogger.googleusercontent.com/img/a/AVvXsEhHukjIrG4gdmBz8Y30rejiSumHw7ojQbxmPFptYcWwcikIpjYMOpK9IXlSTAGnkt_XuaCIRBTtUQnpEn2i9TtjQyDbh1G8Ef3RQlN8laeZnNPhSB_PtU5zidYU_qn2YQ2pENrj5yjBt-31or-a8-Lqd2bPBVzl17-We6dh3ZaEcI3lkqUpAPUfiwdy5-M"
+        },
+        {
+          "category": "gid://shopify/Collection/82715377735",
+          "cateName": "New Jewelry",
+          "image": "https://blogger.googleusercontent.com/img/a/AVvXsEhEjTLWR5DS84SCRVzgJ8YoKvPP9cqWvSh3fRZGfb_89FaOIIW_7-R3D7DlKvXDceEhzc7mAX42ViQqDtEO738UdusdiNje7D141lNSURMRQpSYoko5DmJwDYD7oAysTwTzHDeeEQ_ntBjrCzgSfMoF7PITrcb1AQHy91L7yCM5nVO2D_yEeklgnWGiZPg"
+        }
+      ]
+    },
+    {
+      "layout": "getTheLook",
+      "title": "Featured This Week",
+      "productUrls": [
+        "https://www.celticcollections.com/collections/fathers-day/products/the-high-kings-the-road-not-taken-cd-pre-order",
+        "https://www.celticcollections.com/collections/fathers-day/products/the-best-that-is-irish-various-irish-artists",
+        "https://www.celticcollections.com/collections/fathers-day/products/wolfe-tones-celtic-symphony",
+        "https://www.celticcollections.com/collections/fathers-day/products/the-aran-islands-cap",
+        "https://www.celticcollections.com/collections/fathers-day/products/black-ireland-performace-polo-shirt-with-green-underarm-and-trim",
+        "https://www.celticcollections.com/collections/fathers-day/products/black-baseball-cap-in-rugby-style-with-shamrock-and-ireland-name",
+        "https://www.celticcollections.com/collections/fathers-day/products/harp-breathable-tshirt"
+      ]
+    },
+    {
+      "layout": "spacer",
+      "height": 20
+    },
+    {
+      "layout": "getTheLookVideoThumbnail"
+    },
+    {
+      "name": "Recent View",
+      "layout": "recentView"
+    },
+    {
+      "name": "Celtic Woman CDs",
+      "image": "",
+      "layout": "twoColumn",
+      "category": "gid://shopify/Collection/60394766456",
+      "isSnapping": true
+    },
+    {
+      "name": "High Kings CDs",
+      "image": "",
+      "layout": "threeColumn",
+      "category": "gid://shopify/Collection/64238780536",
+      "isSnapping": true
+    },
+    {
+      "name": "Sweaters & Hoodies",
+      "image": "",
+      "layout": "staggered",
+      "category": "gid://shopify/Collection/3027370005",
+      "isSnapping": true
+    },
+    {
+      "name": "Tree Of Life Jewelry",
+      "image": "",
+      "layout": "threeColumn",
+      "category": "gid://shopify/Collection/93216571463",
+      "isSnapping": true
+    },
+    {
+      "layout": "socials",
+      "facebook": "https://www.facebook.com/celticcollectionssoundsofireland",
+      "instagram": "https://www.instagram.com/celticcollectionsshop/",
+      "twitter": "https://twitter.com/celtic_shop",
+      "youtube": "https://www.youtube.com/channel/UC5IUVmGcyNJk_AB49v_Po7g/"
+    }
+  ],
+  "Setting": {
+    "MainColor": "#217048",
+    "ProductListLayout": "list",
+    "StickyHeader": true
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "home",
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "key": "p1q235ba14"
+    },
+    {
+      "pos": 200,
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "fontFamily": "CupertinoIcons",
+      "categoryLayout": "card",
+      "key": "hwu0rkrizt",
+      "remapCategories": [
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
+          "name": "Features",
+          "image": "https://cdn.shopify.com/s/files/1/0331/5230/3239/collections/fashion-PN7FSF5_350x500.jpg?v=1581920391"
+        },
+        {
+          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTE2NDkzNQ==",
+          "name": "Bags"
+        },
+        {
+          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTQyNzA3OQ==",
+          "name": "Clothing"
+        },
+        {
+          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwODk2ODMyNw==",
+          "name": "Shoes"
+        },
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTUyNTM4Mw==",
+          "name": "Women"
+        },
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTYyMzY4Nw==",
+          "name": "Man"
+        }
+      ]
+    },
+    {
+      "key": "2reihs4qzc",
+      "icon": "search",
+      "layout": "search",
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "size": 24
+    },
+    {
+      "pos": 400,
+      "icon": "bag",
+      "layout": "cart",
+      "categoryLayout": "cart",
+      "key": "a2xts0oou6",
+      "fontFamily": "CupertinoIcons"
+    },
+    {
+      "layout": "profile",
+      "fontFamily": "CupertinoIcons",
+      "pos": 500,
+      "key": "69jw5yx12d",
+      "icon": "person"
+    }
+  ],
+  "searchSuggestion": [
+    "Here's some popular searches...",
+    "Celtic Woman",
+    "High Kings",
+    "Jewelry",
+    "Clothing",
+    "Candles"
+  ],
+  "OnBoarding": {
+    "data": [
+      {
+        "title": "Welcome to D Biggins",
+        "image": "assets/images/fogg-delivery-1.png",
+        "desc": "Fluxstore is on the way to serve you. ",
+        "background": "#FFF3F2"
+      },
+      {
+        "title": "Connect Surrounding World",
+        "image": "assets/images/fogg-uploading-1.png",
+        "desc": "See all things happening around you just by a click in your phone. Fast, convenient and clean.",
+        "background": "#F2FFFC"
+      },
+      {
+        "title": "Let's Get Started",
+        "image": "fogg-order-completed.png",
+        "desc": "Waiting no more, let's see what we get!",
+        "background": "#F9F2FF"
+      }
+    ]
+  },
+  "categoriesDropDown": {
+    "colorAccent": "8CC54B",
+    "items": [
+      {
+        "title": "Music Store",
+        "individualCategories": [
+          {
+            "category": "gid://shopify/Collection/1069514773",
+            "cateName": "CD"
+          },
+          {
+            "category": "gid://shopify/Collection/3516301333",
+            "cateName": "Vinyl"
+          }
+        ]
+      },
+      {
+        "title": "Celtic Woman Store",
+        "individualCategories": [
+          {
+            "category": "gid://shopify/Collection/92930801735",
+            "cateName": "All"
+          },
+          {
+            "category": "gid://shopify/Collection/60394766456",
+            "cateName": "Celtic Woman CD"
+          },
+          {
+            "category": "gid://shopify/Collection/60395094136",
+            "cateName": "Celtic Woman DVD"
+          },
+          {
+            "category": "gid://shopify/Collection/83692388423",
+            "cateName": "Celtic Woman Blu-Ray"
+          },
+          {
+            "category": "gid://shopify/Collection/262036127815",
+            "cateName": "Celtic Woman Bundles"
+          },
+          {
+            "category": "gid://shopify/Collection/81013571696",
+            "cateName": "Celtic Woman Jewelry"
+          },
+          {
+            "category": "gid://shopify/Collection/167114309703",
+            "cateName": "CW Calendar"
+          }
+        ]
+      },
+      {
+        "title": "The High Kings Store",
+        "individualCategories": [
+          {
+            "category": "gid://shopify/Collection/64238780536",
+            "cateName": "High Kings CD"
+          },
+          {
+            "category": "gid://shopify/Collection/64239075448",
+            "cateName": "High Kings DVD"
+          }
+        ]
+      },
+      {
+        "title": "Jewelry",
+        "subCategories": [
+          {
+            "title": "All",
+            "items": [
+              {
+                "category": "gid://shopify/Collection/82571821127",
+                "cateName": "Birthstones"
+              },
+              {
+                "category": "gid://shopify/Collection/3026681877",
+                "cateName": "Bracelets"
+              },
+              {
+                "category": "gid://shopify/Collection/3027402773",
+                "cateName": "Charms"
+              },
+              {
+                "category": "gid://shopify/Collection/3026190357",
+                "cateName": "Cufflinks"
+              },
+              {
+                "category": "gid://shopify/Collection/3026616341",
+                "cateName": "Earrings"
+              },
+              {
+                "category": "gid://shopify/Collection/3026550805",
+                "cateName": "Pendants & Necklaces"
+              },
+              {
+                "category": "gid://shopify/Collection/151717380167",
+                "cateName": "Rings"
+              }
+            ]
+          },
+          {
+            "title": "Sterling Silver",
+            "items": [
+              {
+                "category": "gid://shopify/Collection/83164299335",
+                "cateName": "Bangles"
+              },
+              {
+                "category": "gid://shopify/Collection/83164037191",
+                "cateName": "Bracelets"
+              },
+              {
+                "category": "gid://shopify/Collection/83163775047",
+                "cateName": "Earrings"
+              },
+              {
+                "category": "gid://shopify/Collection/83163676743",
+                "cateName": "Pendants"
+              },
+              {
+                "category": "gid://shopify/Collection/83163578439",
+                "cateName": "Rings"
+              }
+            ]
+          },
+          {
+            "title": "Gold",
+            "items": [
+              {
+                "category": "gid://shopify/Collection/82625658951",
+                "cateName": "Earrings"
+              },
+              {
+                "category": "gid://shopify/Collection/82625724487",
+                "cateName": "Pendants"
+              },
+              {
+                "category": "gid://shopify/Collection/82625855559",
+                "cateName": "Rings"
+              }
+            ]
+          },
+          {
+            "title": "Style",
+            "items": [
+              {
+                "category": "gid://shopify/Collection/90863370311",
+                "cateName": "Claddagh"
+              },
+              {
+                "category": "gid://shopify/Collection/93216571463",
+                "cateName": "Tree Of Life"
+              },
+              {
+                "category": "gid://shopify/Collection/94417944647",
+                "cateName": "Trinity Knot"
+              },
+              {
+                "category": "gid://shopify/Collection/150984327239",
+                "cateName": "Connemara Marble"
+              }
+            ]
+          }
+        ],
+        "individualCategories": [
+          {
+            "category": "gid://shopify/Collection/82715377735",
+            "cateName": "NEW Jewelry"
+          },
+          {
+            "category": "gid://shopify/Collection/260596564039",
+            "cateName": "Kids Jewelry"
+          }
+        ]
+      },
+      {
+        "title": "Clothing",
+        "subCategories": [
+          {
+            "title": "Men",
+            "items": [
+              {
+                "category": "gid://shopify/Collection/3027370005",
+                "cateName": "Sweaters & Hoodies"
+              },
+              {
+                "category": "gid://shopify/Collection/3027009557",
+                "cateName": "T-Shirts"
+              },
+              {
+                "category": "gid://shopify/Collection/33476968568",
+                "cateName": "Accessories"
+              }
+            ]
+          },
+          {
+            "title": "Women",
+            "items": [
+              {
+                "category": "gid://shopify/Collection/441024119097",
+                "cateName": "Headbands & Gloves"
+              },
+              {
+                "category": "gid://shopify/Collection/33722761336",
+                "cateName": "T-Shirts & Sweatshirts"
+              },
+              {
+                "category": "gid://shopify/Collection/2739011605",
+                "cateName": "Scarves"
+              }
+            ]
+          }
+        ],
+        "individualCategories": [
+          {
+            "category": "gid://shopify/Collection/3026976789",
+            "cateName": "Kids"
+          },
+          {
+            "category": "gid://shopify/Collection/441024905529",
+            "cateName": "New Arrivals"
+          },
+          {
+            "category": "gid://shopify/Collection/153066405959",
+            "cateName": "Aran Wool"
+          }
+        ]
+      },
+      {
+        "title": "Homeware",
+        "individualCategories": [
+          {
+            "category": "gid://shopify/Collection/168512192583",
+            "cateName": "Candles & Diffusers"
+          }
+        ]
+      },
+      {
+        "title": "Irish Gifts",
+        "individualCategories": [
+          {
+            "category": "gid://shopify/Collection/75119198320",
+            "cateName": "Bronze"
+          },
+          {
+            "category": "gid://shopify/Collection/167114309703",
+            "cateName": "Calendars"
+          }
+        ]
+      },
+      {
+        "title": "Gift Cards",
+        "individualCategories": [
+          {
+            "category": "gid://shopify/Collection/262855360583",
+            "cateName": "Gift Cards"
+          }
+        ]
+      }
+    ]
+  },
+  "videoArchive": {
+    "title": "Latest Videos",
+    "thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEiXKCeLUlrTBnKOlRCPYBWSOeQ7axfksfwrMWgPENcPUPwrpT3f6y5FymhexLSSi6qGhkANq3okoQfhlhv4wRd6fpuMYNbLXHPpkVuMeiV054Bl6QbK2XNV7hmXkZmdCbR6s3YmWwu8Ho_T4rBAYWaUogjzdzoPSCIKVV-iWazpFCz4yVwl6ml7XI-naHg",
+    "archives" : [
+      {
+        "date": "FATHER'S DAY",
+        "getTheLookTitle": "Our ❤️ Father's Day Picks",
+        "video":
+        "<iframe src=\"https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fcelticcollectionssoundsofireland%2Fvideos%2F902530776920729%2F&show_text=false&width=476&t=0\" width=\"267\" height=\"267\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe>",
+        "productUrls": [
+          "https://www.celticcollections.com/collections/fathers-day/products/the-high-kings-the-road-not-taken-cd-pre-order",
+          "https://www.celticcollections.com/collections/fathers-day/products/the-best-that-is-irish-various-irish-artists",
+          "https://www.celticcollections.com/collections/fathers-day/products/wolfe-tones-celtic-symphony",
+          "https://www.celticcollections.com/collections/fathers-day/products/the-aran-islands-cap",
+          "https://www.celticcollections.com/collections/fathers-day/products/black-ireland-performace-polo-shirt-with-green-underarm-and-trim",
+          "https://www.celticcollections.com/collections/fathers-day/products/black-baseball-cap-in-rugby-style-with-shamrock-and-ireland-name",
+          "https://www.celticcollections.com/collections/fathers-day/products/harp-breathable-tshirt"
+        ]
+      },
+      {
+        "date": "THE HIGH KINGS",
+        "getTheLookTitle": "Products Mentioned In The Video",
+        "video":
+        "<iframe src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcelticcollectionssoundsofireland%2Fposts%2Fpfbid0F51BecrzbwMoAotoUci7bqSepmrwuE14KwNKYLnPsQFFPvQPL3pus8AtBwrctEvKl&show_text=true&width=500\" width=\"267\" height=\"476\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\"></iframe>",
+        "productUrls": [
+          "https://www.celticcollections.com/collections/hk-cd/products/the-high-kings-home-from-home"
+        ]
+      }
+    ]
+  }
+}
